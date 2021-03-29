@@ -1,0 +1,12 @@
+{
+  "ID":"262C23B084D411DB66FE0C79D6C2A6H",
+  "ActionKeyword":"eev",
+  "Name":"Environment Variables",
+  "Description":"See and/or edit the system environment variables",
+  "Author":"DanAngelus",
+  "Version":"1.0.0",
+  "Language":"python",
+  "Website":"https://danangelus.uk",
+  "IcoPath": "Images\\pic.png",
+  "ExecuteFileName":"EnvironmentVariables.py"
+}
